@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Design Lab
 tags: [research]
 image: /img/DesignPo.jpg
 ---
