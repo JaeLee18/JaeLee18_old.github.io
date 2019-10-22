@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!
+tags: [research]
 image: /img/hello_world.jpeg
 ---
 
