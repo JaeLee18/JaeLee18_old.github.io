@@ -8,7 +8,7 @@ image: /img/hello_world.jpeg
 Title = The name of Project\
 Author list = A, B, C,  *__Lee, J., J.,__*\
 [Manuscript in PDF](https://www.google.com)\
-Presented Poster: (Use Image Link)\
+Presented Poster: (Use Image Link)
 
 
 
