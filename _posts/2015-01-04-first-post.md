@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 tags: [research]
-image: /img/DesignPo.jpeg
+image: /img/DesignPo.jpg
 ---
 
 Title = The name of Project\
