@@ -12,7 +12,7 @@ Presented Poster: (Use Image Link)
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Presented Poster](/img/DesignPo.jpg)
 Extra images..?\
 
 
