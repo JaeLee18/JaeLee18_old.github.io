@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ergonomics
+title: A Computer Vision Algo to Identify High Force Exertions from Facial Expressions
 tags: [research, clan]
 image: /img/DesignPo.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Checking Meat Freshness using Appp
+title: Checking Meat Freshness using App
 tags: [research, appliedOptics]
 image: /img/DesignPo.jpg
 ---
