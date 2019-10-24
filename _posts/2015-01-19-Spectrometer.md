@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spectrometer in mobile
-tags: [research]
+tags: [research, appliedOptics, computer vision]
 image: /img/DesignPo.jpg
 ---
 

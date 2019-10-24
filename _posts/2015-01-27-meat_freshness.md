@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checking Meat Freshness using App
-tags: [research, appliedOptics]
+tags: [research, appliedOptics, computer vision]
 image: /img/DesignPo.jpg
 ---
 
