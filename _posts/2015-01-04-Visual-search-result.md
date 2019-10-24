@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Lab
+title: Visual Search Result
 tags: [research]
 image: /img/DesignPo.jpg
 ---
@@ -12,10 +12,14 @@ Author list = A, B, C,  *__Lee, J., J.,__*\
 Presented Poster: (Use Image Link)
 
 
+# Image
+![Presented Poster](/img/DesignPo.jpg)  
+<Presented during Discovery Park Undergraduate Research Internship Program 2016>
 
-![Presented Poster](/img/DesignPo.jpg)
+
+
 Extra images..?\
 
 
 
-This is my first post, how exciting!
+

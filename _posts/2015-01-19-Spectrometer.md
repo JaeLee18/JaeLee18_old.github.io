@@ -12,5 +12,5 @@ Insert app images.
 
 # Image
 ![Presented Poster](/myData/spectrometer/spectrometerPoster.jpg)  
-<Presented during DURI 201x>
+<Presented during Discovery Park Undergraduate Research Internship Program 2017>
  
