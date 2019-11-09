@@ -14,7 +14,8 @@ Presented Poster: (Use Image Link)
 
 # Image
 ![Presented Poster](/img/DesignPo.jpg)  
-<Presented during Discovery Park Undergraduate Research Internship Program 2016>
+Presented during Discovery Park Undergraduate Research Internship Program 2016
+Awarded Undergraduate Research Scholarship
 
 
 
