@@ -15,12 +15,6 @@ Insert app images.
     [Presented during Discovery Park Undergraduate Research Internship Program 2017]
 
 
-<div>
-</div>
-
-
-
-
 ## 
 <div>
 <img src="/img/405nm.jpg" width="30%" height="30%" title="405nm screen" alt="405nm screen" hspace="50"/> 
