@@ -1,10 +1,9 @@
 ---
 layout: post
-title: [Work1] Front-end
+title: (Work 1) Front-end
 tags: [work experience, front-end, hybrid application]
 image: /img/hc.png
 ---
-
 ## First Work Experience
 * My role was developing front-end side functionalities including unit testings.
 * This app was made up Angualr JS and its framework was Cordova (Hybrid Application)
