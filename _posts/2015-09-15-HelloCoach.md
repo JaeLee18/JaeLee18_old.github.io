@@ -11,4 +11,4 @@ image: /img/hc.png
 
 # Images
 
-<img src="/img/hc_tile.jpg" width="40%" height="30%" title="App Screenshots" alt="App Screenshots"/>
+<img src="/img/hc_tile.jpg" width="80%" height="80%" title="App Screenshots" alt="App Screenshots"/>
