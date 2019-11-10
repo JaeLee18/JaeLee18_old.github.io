@@ -12,6 +12,7 @@ description: Research and Projects
 
 # url is the the website domain URL without a trailing slash
 url: "https://jaejoonglee.com"
+enforce_url: "jaejoonglee.com"
 
 # baseurl should be an empty string
 #baseurl: ""
