@@ -12,4 +12,4 @@ image: /img/model.JPG
 
 # Images
 My neural network outperformed than other algorithms :)
-<img src="/img/performance.JPG" width="20%" height="30%" title="Neural network Performance wow" alt="Neural network Performance wow"/>
+<img src="/img/performance.JPG" width="80%" height="70%" title="Neural network Performance wow" alt="Neural network Performance wow"/>
