@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is JaeJoong Lee. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+
 
 ### my history
+ Until 2020 July, I am a solider who works in U.S. Eighth Army as a memebr of Korea Augmentation to the U.S. Army.
+ ![About Me](/img/me.PNG)  
+ [This picture was taken at the Republic of Korea Army Start-up Competition. I won the 2nd place]
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
