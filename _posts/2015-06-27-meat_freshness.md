@@ -7,7 +7,8 @@ image: /img/meat_1.JPG
 
 
 # Intro
-We can get a freshness of meat with a mobile application instead of sending a meat to a labatory.
+* We can get a freshness of meat with a mobile application instead of sending a meat to a labatory.
+* Getting the result from the labatory is really expensive.. :(
 
 # Images
 <img src="/img/meat_1.JPG" width="50%" height="30%" title="Summary" alt="Summary"/>
