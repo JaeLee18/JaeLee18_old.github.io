@@ -17,8 +17,8 @@ Insert app images.
 
 ## 
 <div>
-<img src="/img/405nm.jpg" width="30%" height="30%" title="405nm screen" alt="405nm screen" hspace="50"/> 
-<img src="/img/650nm.jpg" width="30%" height="30%" title="650nm screen" alt="650nm screen" hspace="50"/>
+<img src="/img/405nm.jpg" width="30%" height="30%" title="405nm screen" alt="405nm screen"/> 
+<img src="/img/650nm.jpg" width="30%" height="30%" title="650nm screen" alt="650nm screen"/>
 </div>
  
                  [405nm laser graph]                              [650nm laser graph]
