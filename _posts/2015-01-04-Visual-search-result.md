@@ -2,25 +2,18 @@
 layout: post
 title: Visual Search Result
 tags: [research]
-image: /img/DesignPo.jpg
+image: /img/jae_poster_resize.jpg
 ---
 
-Title = The name of Project\
-Author list = A, B, C,  *__Lee, J., J.,__*\
 
-[Manuscript in PDF](https://www.google.com)\
-Presented Poster: (Use Image Link)
+
 
 
 # Image
-![Presented Poster](/img/DesignPo.jpg)  
-Presented during Discovery Park Undergraduate Research Internship Program 2016
-Awarded Undergraduate Research Scholarship
-
-
-
-Extra images..?\
-
+![Presented Poster](/img/jae_poster_resize.jpg)  
+* Presented during Discovery Park Undergraduate Research Internship Program 2016
+* Awarded Undergraduate Research Scholarshi
+* Used Angular JS and fetched papers from PubMed
 
 
 
