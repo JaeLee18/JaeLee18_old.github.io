@@ -5,11 +5,11 @@ tags: [research, appliedOptics, computer vision]
 image: /myData/spectrometer/spectrometerPoster.jpg
 ---
 
-Have a poster
-Insert app images.
+
 # Intro
 * Real-time Spectrometer in Android Devices
 * Used OpenCV and Java
+* Computer Vision is interesting to do.. espcially in mobile apps.
 
 
 # Image
