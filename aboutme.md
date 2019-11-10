@@ -12,5 +12,5 @@ My name is JaeJoong Lee.
 ### my history
  Until 2020 July, I am a solider who works in U.S. Eighth Army as a memebr of Korea Augmentation to the U.S. Army.
  ![About Me](/img/me.PNG)  
-
+ [This picture was taken at the Republic of Korea Army Start-up Competition. I won the 2nd place]
 
