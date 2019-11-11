@@ -22,7 +22,7 @@ url: "https://www.jaejoonglee.com"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+#  Research: "research"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
