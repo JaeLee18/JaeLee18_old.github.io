@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Work 1) Front-end
+title: (1st Work) Front-end
 tags: [work experience, front-end, hybrid application]
 image: /img/hc.png
 ---
