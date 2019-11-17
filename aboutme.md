@@ -6,7 +6,7 @@ subtitle:
 
 My name is Jae Joong Lee. I got Bachelor of Science from Purdue University with Computer Science(3.74/4.00).
 
-For now, I am looking forward to join a Ph.D program :)
+For now, I am looking forward to join a Ph.D program so I can do more interesting research projects and learn approaches from my future advisor! :)
 
 My research interests includes computer vision and deep learning.
 
