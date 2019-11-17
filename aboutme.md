@@ -13,16 +13,16 @@ My research interests includes computer vision and deep learning.
 Here is my [Curriculm vitae](/myData/CV_FINAL.pdf)
 
 
-### My history
+## My history
+
+ ### 2nd Place with $5,000: Start-up Competition as a team leader. 
 <div>
  <img src="/img/me.PNG" float="left" width="10%" height="10%" title="Me" alt="Me"/>
  </div>
- <div>
-This picture was taken at the Republic of Korea Army Start-up Competition. I won the 2nd place.
- 
- 
-Until 2020 July, I am a solider(Interpreter) who works in U.S. Eighth Army as a memebr of Korea Augmentation to the U.S. Army.
- </div>
+
+ - This picture was taken at the Republic of Korea Army Start-up Competition. (Nation Wide Competition) 
+ - Until 2020 July, I am a solider(Interpreter) who works in U.S. Eighth Army as a memebr of Korea Augmentation to the U.S. Army.
+
 
 
 
