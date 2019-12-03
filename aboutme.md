@@ -10,7 +10,7 @@ For now, I am looking forward to join a Ph.D program so I can do more interestin
 
 My research interests includes computer vision and deep learning.
 
-Here is my [Curriculm vitae](/myData/CV_FINAL.pdf)
+Here is my [Curriculm vitae](/myData/JJ_CV_Publication_Update.pdf)
 
 
 ## My history
