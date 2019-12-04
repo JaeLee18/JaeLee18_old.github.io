@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Publication!
+title: My paper is accepted to Journal of Microbiological Methods!
 tags: [research, applied optics, manuscript]
 image: /img/Journal_of_MM.jpg
 ---
