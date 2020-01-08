@@ -9,7 +9,7 @@ New publication on Journal of Microbiological Methods!
 
 * I'm glad to announce that my LFA project has been published!
 * It is very rewarding to publish my work and I hope this can contribute to make the better world :)
-* Jung, Y.K., Heo, Y. J., Lee, J. J., Deering, A., & Bae, E.W. (in press). Smartphone-based lateral flow imaging system for detection of food-borne bacteria. Journal of Microbiological Methods. [link to manuscript](https://doi.org/10.1016/j.mimet.2019.105800)
+* Jung, Y.K., Heo, Y. J., Lee, J. J., Deering, A., & Bae, E.W. (Published). Smartphone-based lateral flow imaging system for detection of food-borne bacteria. Journal of Microbiological Methods. [link to manuscript](https://doi.org/10.1016/j.mimet.2019.105800)
 
 
 
