@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Simple App
-tags: [personal project]
+tags: [personal project, Android]
 image: /img/memo_app.png
 ---
 
