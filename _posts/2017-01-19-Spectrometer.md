@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World's First Spectrometer in Mobile
-tags: [research, appliedOptics, computer vision]
+tags: [research, appliedOptics, computer vision, Android]
 image: /myData/spectrometer/spectrometerPoster.jpg
 ---
 
