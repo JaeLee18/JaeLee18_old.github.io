@@ -9,6 +9,9 @@ My name is Jae Joong Lee. I got Bachelor of Science from Purdue University with 
 
 My interests include Machine Learning, Computer Vision(Published a related paper), Android App Development(Publihsed a related paper), Backend Development.
 
+Recently, I was a software engineer intern in a Silicon Valley Start-up.
+
+I like to work on a project with Flask, Django, Tensorflow, Keras and Android.
 
 Here is my [RESUME](/myData/JAEJOONG_RESUME_MARCH)
 
