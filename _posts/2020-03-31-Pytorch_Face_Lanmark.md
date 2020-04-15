@@ -2,7 +2,7 @@
 layout: post
 title: Facial Landmark Extraction using Pytorch
 tags: [personal project, Computer Vision]
-image: /img/memo_app.png
+image: /img/facial/firstCNNlayerFeatureMap.png
 ---
 
 # Face-Landmark-Extraction-Pytorch
@@ -12,22 +12,22 @@ image: /img/memo_app.png
 - From Youtube Face Dataset
 
 ## 3. Model Summary
-- ![Model](img/facial/model.png?raw=true)
+- ![Model](/img/facial/model.png?raw=true)
 
 ## 4.Results
 - Green Dots: True features
 - Purple Dots: Predicted features
-- ![Result](img/facial/predicted.png?raw=true)
+- ![Result](/img/facial/predicted.png?raw=true)
 
 ## 5. CNN layer feature map
 - First CNN layer feature map
-- ![FirstCNN](img/facial/firstCNNlayerFeatureMap.png?raw=true)
+- ![FirstCNN](/img/facial/firstCNNlayerFeatureMap.png?raw=true)
 - Second CNN layer feature map
-- ![SecondCNN](img/facial/secondCNNlayerFeatureMap.png?raw=true)
+- ![SecondCNN](/img/facial/secondCNNlayerFeatureMap.png?raw=true)
 
 ## 6. CNN layer Filters
 - First CNN layer filters
-- ![FirstCNNFilter](img/facial/firstCNNfilters.png?raw=true)
+- ![FirstCNNFilter](/img/facial/firstCNNfilters.png?raw=true)
 
 
 ### Github
