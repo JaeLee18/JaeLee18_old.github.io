@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Front-end Fun using ReactJS
+title: Front-end Project with ReactJS
 tags: [personal project]
 image: /img/resort.png
 ---
