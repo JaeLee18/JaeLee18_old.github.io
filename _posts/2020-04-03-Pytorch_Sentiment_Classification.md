@@ -2,7 +2,7 @@
 layout: post
 title: Sentiment Classification using Pytorch
 tags: [personal project, NLP]
-image: /img/facial/firstCNNlayerFeatureMap.png
+image: /img/sentiment/pos_neg_ratio.png
 ---
 # Face-Landmark-Extraction-Pytorch
 ### Trained with NVIDIA P100 GPU
