@@ -4,7 +4,6 @@ title: Sentiment Classification using Pytorch
 tags: [personal project, NLP]
 image: /img/facial/firstCNNlayerFeatureMap.png
 ---
-
 # Face-Landmark-Extraction-Pytorch
 ### Trained with NVIDIA P100 GPU
 
