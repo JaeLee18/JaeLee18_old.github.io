@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Simple App
+title: Android Project (Note App)
 tags: [personal project, Android]
 image: /img/memo_app.png
 ---
