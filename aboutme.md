@@ -4,10 +4,10 @@ title: About me
 subtitle: 
 ---
 
-My name is Jae Joong Lee. I got Bachelor of Science from Purdue University with Computer Science(3.74/4.00).
+## Who am I
+My name is JaeJoong Lee and I have Bachelor of Science from Purdue University with Computer Science(3.74/4.00).
 
-
-My interests include Machine Learning, Computer Vision, Image Processing and Natual Laguange Processing.
+My interest includes Machine Learning, Computer Vision, Image Processing and Natual Laguange Processing.
 
 I am always looking for an opportunity to work on a project which includes my interest.
 
